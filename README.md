@@ -19,11 +19,11 @@ With Python, scikit-learn, pandas, numpy, matplotlib, seaborn
 ![xgboost](images/xgb_classifier_results.png)
 
 # 3. Data clustering with DBSCAN, k-means after dimensionality reduction with TSNE
-Using TSNE to reduce high number of dimensions (20 features)
+## Using TSNE to reduce high number of dimensions (20 features)
 ![tsne](images/tsne.png)
-DBScan grid search
+## DBScan grid search
 ![dbscan](images/dbscan_gridsearch.png)
-K-means algorithm
+## K-means algorithm
 ![kmeans](images/kmeans_clustering.png)
 
 # 4. Cluster assignments from analysis

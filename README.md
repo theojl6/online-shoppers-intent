@@ -16,6 +16,7 @@ With Python, scikit-learn, pandas, numpy, matplotlib, seaborn
 ![datahandling](images/data_handling.png)
 
 # 2. Model fitting to predict buyers / non-buyers, with Support Vector Machines, Random Forest Classifier, XGBoost Classifier
+## Example for XGBoost
 ![xgboost](images/xgb_classifier_results.png)
 
 # 3. Data clustering with DBSCAN, k-means after dimensionality reduction with TSNE
@@ -27,4 +28,7 @@ With Python, scikit-learn, pandas, numpy, matplotlib, seaborn
 ![kmeans](images/kmeans_clustering.png)
 
 # 4. Cluster assignments from analysis
+## Table of features by cluster
+![cluster_table](images/cluster_results.png)
+## Cluster assignments
 ![clusters](images/cluster_assignment.png)

@@ -4,7 +4,7 @@ Data analysis on the Online Shopping Behavior dataset from https://www.kaggle.co
 
 With Python, scikit-learn, pandas, numpy, matplotlib, seaborn
 
-Full notebook: ![notebook](https://github.com/theojl6/online-shoppers-intent/blob/main/Online_Shopping_Behavior_Analysis.ipynb)
+Full [notebook](https://github.com/theojl6/online-shoppers-intent/blob/main/Online_Shopping_Behavior_Analysis.ipynb)
 
 # 1. Data handling
 ![datahandling](images/data_handling.png)
